@@ -22,7 +22,7 @@ Além disso o programa separa automaticamente as pessoas cadastradas entre os es
 * Cada pessoa deve realizar os 2 coffee-break em espaços diferentes (exceto quando o espaço atingir sua capacidade máxima)
 
 ## Banco de dados
-O sistema utiliza um banco de dados feito para MySQL que está disponível na pasta "Banco de dados".
+O sistema utiliza um banco de dados feito para MySQL que está disponível no Release aqui no GitHub, arquivo "project.sql".
 É de suma importância realizar a criação do banco de dados visto que sem ele o programa não funcionará!
 
 ## Funcionalidades
@@ -38,10 +38,10 @@ O sistema conta com testes unitários para garantir o correto preenchimento das 
 
 ## Bibliotecas utilizadas
 Todas as bibliotecas utilizadas são gratuitas.
-Elas estão disponíveis na pasta "Bibliotecas" no projeto caso a IDE escolhida não possua as mesmas
+Elas estão disponíveis no Release do programa, disponível aqui no GitHub.
 
 ## Gerar o executável (jar)
-Dentro da pasta "dist" já está disponível o JAR compilado, mas caso seja do interesse você pode baixar o projeto na IDE de sua preferência, adicionar as bibliotecas e depois gerar o JAR
+No Release do programa aqui no GitHub já está disponível o JAR compilado, mas caso seja do interesse você pode baixar o projeto na IDE de sua preferência, adicionar as bibliotecas e depois gerar o JAR
 Gerar o JAR através de linha de comando deve ser feito apenas por pessoas que possuem conhecimento de tal processo pois caso algum comando seja "esquecido" o programa não funcionará corretamente!
 
 ## JDK
