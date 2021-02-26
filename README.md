@@ -41,7 +41,8 @@ Todas as bibliotecas utilizadas são gratuitas.
 Elas estão disponíveis no Release do programa, disponível aqui no GitHub.
 
 ## Gerar o executável (jar)
-No Release do programa aqui no GitHub já está disponível o JAR compilado, mas caso seja do interesse você pode baixar o projeto na IDE de sua preferência, adicionar as bibliotecas e depois gerar o JAR
+No Release do programa aqui no GitHub já está disponível o JAR compilado, mas caso seja do interesse você pode baixar o projeto na IDE de sua preferência, adicionar as bibliotecas e depois gerar o JAR.
+
 Gerar o JAR através de linha de comando deve ser feito apenas por pessoas que possuem conhecimento de tal processo pois caso algum comando seja "esquecido" o programa não funcionará corretamente!
 
 ## JDK
